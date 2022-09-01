@@ -20,7 +20,7 @@ Workflow management and documentation will be handled in Jira and Confluence, wh
 - FrontEnd
     - Tailwind CSS
     - Svelte.js
-- Machine Learning/Backend
+- Machine Learning/Social Networking
     - Python2
     - Node
 - Database
