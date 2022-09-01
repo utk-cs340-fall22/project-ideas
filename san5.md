@@ -7,12 +7,12 @@ There is a Vol Dining website, but it is hard to see which restaurants are open 
 ## List of Major Features
 - Campus map with icons at each location
 - Icons with color when the location is open during the time that the user uses the app
-- Grey if it is not opened
+  - Grey if it is not opened
 - Information about each location 
 - Meal equivalency costs
 - Meal Equivalency available locations during the time of user using the app
 - Filter for vegetarians
-- (if we have time) recommendations of locations based on their location using GPS
+- (If available) recommendations of locations based on their location using GPS
 
 ## Languages /Tool Sets/Third-party Code
 - Python
@@ -21,5 +21,6 @@ There is a Vol Dining website, but it is hard to see which restaurants are open 
 - Android Studio/IOS (not decided)
 - JSON
 - More
+
 ## Audience
 The audience is all the students at the University of Tennessee, Knoxville. 
