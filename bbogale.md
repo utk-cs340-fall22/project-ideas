@@ -11,7 +11,7 @@ The subreddit for displaying custom made themes by people across the internet is
 called UnixPorn. It serves to show screenshots of themes people create along with 
 links to the files needed to replicate them. As it currently stands there is no
 effective and intuitive way to filter through the various themes submitted by the 
-community and replicate them with ease. This project wished to create a website to
+community and replicate them with ease. This project wishes to create a website to
 solve just that.
 
 # The feature this website will have are as follows
