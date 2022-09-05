@@ -22,8 +22,8 @@ solve just that.
     4. Sort by distro (maybe)
 - Information page for selected theme
     * Who it was submitted by
-    * Shows the type
-    * Base system neede to replicate the theme
+    * Shows the type [DM/WM]
+    * Base system needed to replicate the theme
     * A link to the github repo featuring all the neccessary files
 
 # Language/Toolsets
