@@ -17,7 +17,7 @@ Features that make it more like a game than a simulator
 - Brokerage options (Gives you access to different investment options at different prices).
 - Ways to gain leverage both inside and outside the portfolio (margins, loans, etc.).
 - Outside investment options (education, property, bonds, CDs, etc).
-- Outisde jobs for daily investment capital.
+- Outside jobs for daily investment capital.
 - Based on runs, you only get one life (just like real life). If you go bankrupt, you restart.
 
 ### Tools & Tech
