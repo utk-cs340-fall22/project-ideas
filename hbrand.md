@@ -19,7 +19,7 @@ There is no problem to solve per se, there are plenty of other good multiplayer 
 	- (Relatively) Fancy Graphics
 	- Cusomizable game settings on the server
 
-#Tools
+# Tools
 - Python3
 	- Pygame
 	- Sockets
