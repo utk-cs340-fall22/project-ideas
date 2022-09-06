@@ -2,16 +2,16 @@
 
 ## Summary
 
-This project would be an application that automates many aspects of a restuarant in order to increase
+This project would be an application that automates many aspects of a restaurant to increase
 profit and efficiency. The application would create a centralized way to organize the restaurant and
 visualize things, such as inventory, sales, and scheduling. Long-term, this application would maximize
-productivity and create a better work-flow for the restaurant.
+productivity and create a better workflow for the restaurant.
 
 ## Problem Solved
 
-This application would allow restuarant owners to better visualize and organize their business. Additionaly,
+This application would allow restaurant owners to better visualize and organize their business. Additionally,
 the application would remove the need to keep all records and information on-hand, and it would grant more
-insight on the success of the restuarant.
+insight on the success of the restaurant.
 
 ## Major Features
 
