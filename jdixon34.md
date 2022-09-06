@@ -1,7 +1,7 @@
-##Project Idea
+## Project Idea
 To build a chess engine of roughly 1600-2000 Elo strength.
 
-##Major Features
+## Major Features
 A GUI of a chess board with an engine running in the background to generate computer moves.
 I think that the project could be developed in the following phases:
 
@@ -13,11 +13,11 @@ I think that the project could be developed in the following phases:
 With just a simple minimax search, the computer will play pretty reasonably. Everything after that
 will just make it much better than the average human chess player.
 
-#Languages/Tools to be Used
--C++ for the engine
--JavaScript for the GUI
+## Languages/Tools to be Used
+* C++ for the engine
+* JavaScript for the GUI
 
-##Problem Being Solved/Who Would Use this?
+## Problem Being Solved/Who Would Use this?
 Chess engines have been around for a while and this obviously won't be the best one so it won't
 have much practical value in terms of being an actual product. I just think that it would be a
 fun and interesting project to work on.
