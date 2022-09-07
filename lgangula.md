@@ -11,7 +11,7 @@ I interned at a company that was hybrid between remote and in office, and their 
 - request other users to move/message them
 - some sort of calendar integration so employees can coordinate when they come in
 
-#Languages,tools, etc:
+# Languages,tools, etc:
 - Python/PyQt or flutter/firebase
 - outlook or google calendar
 - SQL if not firebase/futter
