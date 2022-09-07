@@ -16,5 +16,5 @@ I interned at a company that was hybrid between remote and in office, and their 
 - outlook or google calendar
 - SQL if not firebase/futter
 
-#audience
+# Audience
 Employees that are not required to come to the office. Hybrid work environments are the target audience, but this can be extended to students in smaller classes at universities. Any group that attends some sort of event without formal seating, and excess seats could also use this app. 
