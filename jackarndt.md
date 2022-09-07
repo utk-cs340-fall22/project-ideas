@@ -6,4 +6,4 @@ One of my favorite hobbies for a lot of my life has been learning and solving va
 
 This can be accomplished with a C++ program which takes every color on every face as an input (based on a specified orientation), then prints out the entire moveset required to solve the cube.
 
-This could be sold as an app by people who have the classic toy sitting on their shelf collecting dust, all mixed up, and want to be wowed by a cool program which solves it for them
+This could be sold as an app by people who have the classic toy sitting on their shelf collecting dust, all mixed up, and want to be wowed by a cool program which solves it for them.
