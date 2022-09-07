@@ -1,4 +1,7 @@
-# Project Proposal, ### Marcos Garcia
+# Project Proposal 
+### Marcos Garcia
+
+---
 
 ## Overview
 
