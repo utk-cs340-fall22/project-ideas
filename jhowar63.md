@@ -12,15 +12,15 @@ It is notoriously difficult to manage all of life while maintaining good mental 
 This Wellness Watcher will serve as a tool to help students or just generally busy individuals manage their life.
 
 Features:
-Calendar and schedule import.
-User mental and physical health input logs.
-Warn users of busy days or potential overbooking that can be detrimental to mental health.
-Analysis and checks for patterns in users mental health status and compares it to their schedule, then informs the user.
+- Calendar and schedule import.
+- User mental and physical health input logs.
+- Warn users of busy days or potential overbooking that can be detrimental to mental health.
+- Analysis and checks for patterns in users mental health status and compares it to their schedule, then informs the user.
 
 Tools: (Subject to change)
-C++
-React.js
-Node.js
+- C++
+- React.js
+- Node.js
 
 Market:
 This is primarily designed with college students in mind, however it would be useful for anyone struggling to balance life and any form of work, while still prioritizing health.
