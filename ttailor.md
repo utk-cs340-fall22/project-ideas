@@ -18,6 +18,3 @@ This website will help users to share their experiences by writing a review for 
 
 # Who would buy/use this solution?
 This website is created for almost everyone. Mostly for users who are interested in sharing their thoughts for others to see and experience as well.
-
-
-
